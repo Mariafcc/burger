@@ -43,10 +43,10 @@ li {
 
 .change-devoured {
   border-radius: 40%;
-  background-color: gray;
+  background-color: white;
 }
 
 .delete-burger {
   border-radius: 40%;
-  background-color: red;
+  background-color: gray;
 }
