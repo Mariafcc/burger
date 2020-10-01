@@ -1,17 +1,30 @@
+body {
+  background-color: rgba(255, 225, 0, 0.81);
+  border-style: solid;
+  border-radius: 10%;
+  border: black;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+
+h2 {
+  text-align: center;
+}
+
+.create-form {
+  text-align: center;
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background-color: rgb(241, 234, 234);
 }
 
 .label {
   font-weight: bold;
-}
-
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
 }
 
 .form-group {
